@@ -1,5 +1,5 @@
 type Bar = 'Bar';
 
-export const Bar = 'Bar';
+const Bar = 'Bar';
 
 export default Bar;
